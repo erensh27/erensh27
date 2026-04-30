@@ -1,4 +1,4 @@
-Hi 👋, I'm Abhinav, I love exploring tech and coding.
+Hi 👋, I'm Abhinav, I love exploring technology and building things with code.
 
 ---
 
