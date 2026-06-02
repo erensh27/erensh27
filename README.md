@@ -1,4 +1,4 @@
-[![header](header.png)](https://eren4710.tech)
+[![header](header.png?v=2)](https://eren4710.tech)
 
 <samp>
 
