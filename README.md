@@ -1,5 +1,5 @@
-[![header](https://raw.githubusercontent.com/erensh27/erensh27/refs/heads/main/header.png)](https://eren4710.tech)
-  
+[![header](header.png)](https://eren4710.tech)
+
 <samp>
 
 
