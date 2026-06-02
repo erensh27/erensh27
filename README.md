@@ -1,4 +1,4 @@
-[![header](main.png)](https://eren4710.tech)
+[![header](aot.jpg)](https://eren4710.tech)
 
 <samp>
 
