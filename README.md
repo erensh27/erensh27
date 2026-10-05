@@ -4,6 +4,7 @@
 
 competitive programming // ai-ml // open source
 
+→ Ravager Chess Engine · 3324 CCRL 40/15 Rating (as of 5 Oct, 2026)
 → rank 49 · MIT Informatics Tournament<br>
 → runner-up @ Procon Jr. IIIT-D<br>
 → interviewed on national television<br>
